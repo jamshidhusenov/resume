@@ -142,7 +142,7 @@ body {
 }
 
 .resume .resume_left .resume_social .semi-bold {
-  color: #fff;
+  color: #0bb5f4;
   margin-bottom: 3px;
 }
 
@@ -239,11 +239,11 @@ body {
 .link{
  text-decoration: none;
  font-size: 16px;
- color: white;
+ color: #0bb5f4;
 }
 
 .link:hover{
- color: orange;
+ color: black;
 
  transform: scale(2);
 }
@@ -252,6 +252,12 @@ body {
  object-fit: cover;
  border-radius: 50%;
  padding: 10px;
+}
+
+.massanger{
+ background: white;
+ border-radius: 20px;
+ padding: 0px 20px;
 }
 
 .massanger:hover{
